@@ -14,11 +14,11 @@
 <br />
 
 ### Languages and Tools:
-<img width="24" src="https://img.shields.io/badge/python%20-%23#3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
-<img width="60" src="https://img.shields.io/badge/r-%23#276DC3.svg?&style=for-the-badge&logo=r&logoColor=white" />
-<img width="24" src="https://img.shields.io/badge/tableau-%23#00599C.svg?&style=for-the-badge&logo=tableau&logoColor=white" />
-<img width="24" src="https://img.shields.io/badge/powerbi-%23#F2C811.svg?&style=for-the-badge&logo=powerbi&logoColor=white" />
-<img width="24" src="https://img.shields.io/badge/Excel-%23#217346.svg?&style=for-the-badge&logo=excel&logoColor=white" />
+<img width="40" src="https://img.shields.io/badge/python%20-%23#3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
+<img width="40" src="https://img.shields.io/badge/r-%23#276DC3.svg?&style=for-the-badge&logo=r&logoColor=white" />
+<img width="40" src="https://img.shields.io/badge/tableau-%23#00599C.svg?&style=for-the-badge&logo=tableau&logoColor=white" />
+<img width="40" src="https://img.shields.io/badge/powerbi-%23#F2C811.svg?&style=for-the-badge&logo=powerbi&logoColor=white" />
+<img width="40" src="https://img.shields.io/badge/Excel-%23#217346.svg?&style=for-the-badge&logo=excel&logoColor=white" />
 
 
 
