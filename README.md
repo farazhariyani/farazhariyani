@@ -14,17 +14,29 @@
 <br />
 
 ### Languages and Tools:
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />] Python <br />
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/r.svg" />] R Programming <br />
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tableau.svg" />] Tableau <br />
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/powerbi.svg" />] Power BI <br />
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftexcel.svg" />] MS Excel <br />
+[<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />] Python <br />
+[<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/r.svg" />] R Programming <br />
+[<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tableau.svg" />] Tableau <br />
+[<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/powerbi.svg" />] Power BI <br />
+[<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftexcel.svg" />] MS Excel <br />
 
 
 
 <br />
 <br />
 
+<details>
+  <summary>:zap: Recent Github Activity</summary>
+  
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+</details>
+
+<summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="farazhariyani's Github Stats" src="https://github-readme-stats.farazhariyani.vercel.app/api?username=farazhariyani&show_icons=true&hide_border=true" />
 
 
 [linkedin]: https://www.linkedin.com/in/farazhariyani/
