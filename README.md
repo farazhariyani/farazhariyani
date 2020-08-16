@@ -15,7 +15,7 @@
 
 ### Languages and Tools:
 <img width="24" src="https://simpleicons.org/icons/python.svg" />
-<img width="24" src="https://simpleicons.org/icons/r.svg" />
+<img width="24" backgroundcolor="#276DC3" src="https://simpleicons.org/icons/r.svg" />
 <img width="24" src="https://simpleicons.org/icons/tableau.svg" />
 <img width="24" src="https://simpleicons.org/icons/powerbi.svg" />
 <img width="24" src="https://simpleicons.org/icons/microsoftexcel.svg" />
