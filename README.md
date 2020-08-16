@@ -14,11 +14,11 @@
 <br />
 
 ### Languages and Tools:
-<img width="24" src="https://simpleicons.org/icons/python.svg" /> Python
-<img width="24" src="https://simpleicons.org/icons/r.svg" /> R Programming
-<img width="24" src="https://simpleicons.org/icons/tableau.svg" /> Tableau
-<img width="24" src="https://simpleicons.org/icons/powerbi.svg" /> Power BI
-<img width="24" src="https://simpleicons.org/icons/microsoftexcel.svg" /> MS Excel
+<img width="24" src="https://simpleicons.org/icons/python.svg" /> Python <br />
+<img width="24" src="https://simpleicons.org/icons/r.svg" /> R Programming <br />
+<img width="24" src="https://simpleicons.org/icons/tableau.svg" /> Tableau <br />
+<img width="24" src="https://simpleicons.org/icons/powerbi.svg" /> Power BI <br />
+<img width="24" src="https://simpleicons.org/icons/microsoftexcel.svg" /> MS Excel <br />
 
 
 
