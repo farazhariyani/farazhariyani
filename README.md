@@ -1,6 +1,6 @@
 ### Hi there, I'm Faraz 👋
 
-## I'm an Analysis and Visualization enthusiast!
+## I'm a Data Science and Analysis enthusiast!
 
 - 🌱 I’m currently learning Data Science
 - 👯 I'm actively looking for job opportunitues
