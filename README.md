@@ -2,7 +2,7 @@
 
 ## I'm an Analysis and Visualization enthusiast!
 
-- 🌱 I’m currently learning everything
+- 🌱 I’m currently learning Data Science
 - 👯 I'm actively looking for job opportunitues
 - ⚡ Fun fact: I love to watch and play cricket 
 
