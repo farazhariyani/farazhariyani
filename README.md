@@ -2,8 +2,8 @@
 
 ## I'm a Data Science and Analysis enthusiast!
 
-- 🌱 I’m currently learning Data Science
-- 👯 I'm actively looking for job opportunitues
+- 🌱 I am currently working remotely as a Data Science Intern at Innodatatics
+- 👯 I am actively looking for job opportunitues
 - ⚡ Fun fact: I love to watch and play cricket 
 
 
