@@ -2,7 +2,7 @@
 
 ## I'm a Data Science and Analysis enthusiast!
 
-- 🌱 I am currently working remotely as a Data Science Intern at Innodatatics
+- 🌱 I have completed 7 months of internship as a Data Scientist
 - 👯 I am actively looking for job opportunitues
 - ⚡ Fun fact: I love to watch and play cricket 
 
