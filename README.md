@@ -1,6 +1,6 @@
 ### Hi there, I'm Faraz 👋
 
-## I'm a Data Science and Analysis enthusiast!
+## An enthusiastic individual, M.Sc. in IT & certified by IBM Cognitive Class in Python for Data Science and familiar with IT tools like MS Office, Tableau, Power BI
 
 - 🌱 I have completed 7 months of internship as a Data Scientist
 - 👯 I am actively looking for job opportunitues
