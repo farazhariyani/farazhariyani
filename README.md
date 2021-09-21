@@ -1,9 +1,8 @@
 ### Hi there, I'm Faraz 👋
 
-## An enthusiastic individual, M.Sc. in IT & certified by IBM Cognitive Class in Python for Data Science and familiar with IT tools like MS Office, Tableau, Power BI
+## Media Solutions & Automation - Junior Associate at Merkle Sokrati
 
-- 🌱 I have completed 7 months of internship as a Data Scientist
-- 👯 I am actively looking for job opportunitues
+- 🌱 IBM Cognitive Class in Python for Data Science
 - ⚡ Fun fact: I love to watch and play cricket 
 
 
