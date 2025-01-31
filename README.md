@@ -1,6 +1,6 @@
 ### Hi there, I'm Faraz 👋
 
-## Media Solutions & Automation - Junior Associate at Merkle Sokrati
+## Media Solutions & Automation - Senior Associate at Merkle (a Dentsu Company)
 
 - 🌱 IBM Cognitive Class in Python for Data Science
 - ⚡ Fun fact: I love to watch and play cricket 
