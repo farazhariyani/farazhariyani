@@ -14,9 +14,7 @@
 
 ### Languages and Tools:
 <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> Python <br />
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/r.svg" /> R Programming <br />
 <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tableau.svg" /> Tableau <br />
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/powerbi.svg" /> Power BI <br />
 <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftexcel.svg" /> MS Excel <br />
 
 
